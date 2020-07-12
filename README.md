@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Banner](https://github.com/Mohagames205/Mohagames205/blob/master/channels4_banner.jpg)
 
 <!--
