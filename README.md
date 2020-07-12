@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Banner](https://github.com/Mohagames205/Mohagames205/blob/master/channels4_banner.jpg)
+
 <!--
 **Mohagames205/Mohagames205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
