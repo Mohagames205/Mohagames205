@@ -1,5 +1,8 @@
 ![Banner](https://github.com/Mohagames205/Mohagames205/blob/master/channels4_banner.jpg)
 
+Hello I'm Mohamed, an 18y old human who likes to code stuff in his freetime.<br>
+Currently I am studying biomedical sciences at [@KULeuven](https://www.kuleuven.be/english/)
+
 🔭 Currently I'm working on these projects
 - [GalactixPE](https://github.com/GalactixPE/): an innovative reallife roleplaying server on Minecraft: Bedrock Edition.
 - [Voxum](https://github.com/Mohagames205/voxum-client): proximity voice chat with WebRTC for Minecraft: Bedrock Edition.
