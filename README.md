@@ -7,7 +7,7 @@ Currently I am studying biomedical sciences at [@KULeuven](https://www.kuleuven.
 - [GalactixPE](https://github.com/GalactixPE/): an innovative reallife roleplaying server on Minecraft: Bedrock Edition.
 - [Voxum](https://github.com/Mohagames205/voxum-client): proximity voice chat with WebRTC for Minecraft: Bedrock Edition.
 - [Verificato*](https://github.com/Mohagames205/verificato): an OAuth verification application for Minecraft: Bedrock Edition.
-- [Golileo](https://github.com/Mohagames205/Golileo): An API to fetch player skins and heads for Minecraft: Bedrock Edition.
+- [Golileo](https://github.com/Mohagames205/Golileo): An API to fetch, display and upload player skins and heads for Minecraft: Bedrock Edition.
 
 \* pending rewrite
 <!--
