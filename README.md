@@ -1,7 +1,7 @@
 ![Banner](https://github.com/Mohagames205/Mohagames205/blob/master/channels4_banner.jpg)
 
 Hello I'm Mohamed, a 19 year old human who likes to code stuff in his freetime.<br>
-Currently I am studying biomedical sciences at [@KULeuven](https://www.kuleuven.be/english/)
+Currently I am studying medicine at [@KULeuven](https://www.kuleuven.be/english/)
 
 🔭 Currently I'm working on these projects
 - [GalactixPE](https://github.com/GalactixPE/): an innovative reallife roleplaying server on Minecraft: Bedrock Edition.
@@ -11,6 +11,9 @@ Currently I am studying biomedical sciences at [@KULeuven](https://www.kuleuven.
 - [Pyeelight](https://github.com/Mohagames205/pyeelight-api): an API to control Yeelight devices using Python
 
 \* pending rewrite
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohagames205)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Mohagames205/Mohagames205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
