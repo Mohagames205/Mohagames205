@@ -4,9 +4,7 @@ Hello I'm Mohamed, a 19 year old human who likes to code stuff in his freetime.<
 Currently I am studying medicine at [@KULeuven](https://www.kuleuven.be/english/)
 
 🔭 Currently I'm working on these projects
-- [GalactixPE](https://github.com/GalactixPE/): an innovative reallife roleplaying server on Minecraft: Bedrock Edition.
-- [Voxum](https://github.com/Mohagames205/voxum-client): proximity voice chat with WebRTC for Minecraft: Bedrock Edition.
-- [Verificato*](https://github.com/Mohagames205/verificato): an OAuth verification application for Minecraft: Bedrock Edition.
+- [Voxum](https://github.com/Mohagames205/voxum-rewritten): proximity voice chat with WebRTC for Minecraft: Bedrock Edition.
 - [Golileo](https://github.com/Mohagames205/Golileo): An API to fetch, display and upload player skins and heads for Minecraft: Bedrock Edition.
 - [Pyeelight](https://github.com/Mohagames205/pyeelight-api): an API to control Yeelight devices using Python
 
