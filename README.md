@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Mohagames205/Mohagames205/blob/master/channels4_banner.jpg)
 
-Hello I'm Mohamed, a 19 year old human who likes to code stuff in his freetime.<br>
+Hello I'm Mohamed, a 20 year old human who likes to code stuff in his freetime.<br>
 Currently I am studying medicine at [@KULeuven](https://www.kuleuven.be/english/)
 
 🔭 Currently I'm working on these projects
