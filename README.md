@@ -15,7 +15,6 @@ Currently I am studying medicine at [@KULeuven](https://www.kuleuven.be/english/
 \* pending rewrite
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohagames205)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Mohagames205/Mohagames205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
