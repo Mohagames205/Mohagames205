@@ -1,9 +1,13 @@
 ![Banner](https://github.com/Mohagames205/Mohagames205/blob/master/channels4_banner.jpg)
 
-Hello I'm Mohamed, a 20 year old human who likes to code stuff in his freetime.<br>
+Hello I'm Mohamed, a 22 year old human who likes to code stuff in his freetime.<br>
 Currently I am studying medicine at [@KULeuven](https://www.kuleuven.be/english/)
 
 🔭 Currently I'm working on these projects
+- [Medicus](https://github.com/Mohagames205/medicus): a Discord bot which verifies that users study medicine at the university
+- [GNKDiscord](https://github.com/Mohagames205/gnkdiscord): a website for the unofficial Medicine Discord server
+
+🌟 These are my favorite projects
 - [Voxum](https://github.com/Mohagames205/voxum-rewritten): proximity voice chat with WebRTC for Minecraft: Bedrock Edition.
 - [Golileo](https://github.com/Mohagames205/Golileo): An API to fetch, display and upload player skins and heads for Minecraft: Bedrock Edition.
 - [Pyeelight](https://github.com/Mohagames205/pyeelight-api): an API to control Yeelight devices using Python
